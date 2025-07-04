@@ -9,7 +9,7 @@ This is a small automation testing framework built for the [OpenCart](https://ww
 - **Automation Tool**: Selenium WebDriver
 - **Build Tool**: Maven
 - **Design Pattern**: Page Object Model (POM)
-- **Reporting**: Extent Reports (or Allure if used)
+- **Reporting**: Extent Reports 
 - **Random Data**: Java Faker / Custom utility
 - **IDE**: IntelliJ IDEA
 - **Version Control**: Git & GitHub
