@@ -1,0 +1,30 @@
+16:37:35.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADITYA SINGH\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:37:39.682 [main] INFO  testCases.TC001_AccountRegistrationTest - Launching browser and opening URL
+16:37:39.695 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Starting TC001_AccountRegistrationTest ** 
+16:37:39.773 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account 
+16:37:40.571 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked On Registration 
+16:37:40.575 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Filling all the details of the customer **
+16:37:41.986 [main] INFO  testCases.TC001_AccountRegistrationTest -  Confirmation message is validated 
+16:37:42.338 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Finished TC001_AccountRegistrationTest **
+16:40:18.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADITYA SINGH\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:40:21.611 [main] INFO  testCases.TC001_AccountRegistrationTest - Launching browser and opening URL
+16:40:21.623 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Starting TC001_AccountRegistrationTest ** 
+16:40:21.707 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account 
+16:40:22.280 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked On Registration 
+16:40:22.285 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Filling all the details of the customer **
+16:40:23.780 [main] INFO  testCases.TC001_AccountRegistrationTest -  Confirmation message is validated 
+16:40:24.169 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Finished TC001_AccountRegistrationTest **
+13:03:46.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADITYA SINGH\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+13:03:51.568 [main] INFO  testCases.TC001_AccountRegistrationTest - Launching browser and opening URL
+13:03:51.580 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Starting TC001_AccountRegistrationTest ** 
+13:03:51.687 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account 
+13:03:52.115 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked On Registration 
+13:03:52.120 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Filling all the details of the customer **
+13:03:53.383 [main] INFO  testCases.TC001_AccountRegistrationTest -  Confirmation message is validated 
+13:03:53.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Finished TC001_AccountRegistrationTest **
