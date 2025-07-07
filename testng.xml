@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ADITYA SINGH/OneDrive/Desktop/practiceProject/OpenCart/OpenCart Project">
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest">
+                <methods>
+                    <include name="verify_account_registration"/>
+                </methods>
+            </class>
+            <class name="testCases.TC001_AccountRegistrationTest">
+                <methods>
+                    <include name="verify_account_registration"/>
+                </methods>
+            </class>
+            <class name="testCases.TC002_AccountLogin">
+                <methods>
+                    <include name="verify_login_with_registered_credentials"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -17,7 +17,7 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "//a[contains(text(),'Register')]")
     WebElement Registration;
 
-    @FindBy(xpath = "//a[normalize-space()='Login']//a[normalize-space()='Login']")
+    @FindBy(xpath = "//a[normalize-space()='Login']")
     WebElement Login;
 
     @FindBy(xpath = "//span[normalize-space()='Wish List (0)']")

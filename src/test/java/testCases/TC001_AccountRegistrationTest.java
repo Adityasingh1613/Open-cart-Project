@@ -1,6 +1,7 @@
 package testCases;
 
 import org.testng.Assert;
+import utilities.TestDataHolder;
 import org.testng.annotations.Test;
 import pageObjects.HomePage;
 import pageObjects.RegistrationPage;
@@ -28,6 +29,9 @@ public class TC001_AccountRegistrationTest extends BaseClass {
             rp.setFirstname(randomString().toUpperCase());
             rp.setLastname(randomString().toUpperCase());
             rp.setEmail(randomString()+"@mail.com");
+            String email = randomString()+"@mail.com";
+            TestDataHolder.registeredEmail = email;
+            TestDataHolder.registeredPassword = pass;
             rp.setTelephone(randomNumbers());
             rp.setPassword(pass);
             rp.setConfirmpassword(pass);
