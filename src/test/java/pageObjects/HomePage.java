@@ -20,6 +20,9 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Login']")
     WebElement Login;
 
+    @FindBy(xpath = "//i[@class='fa fa-search']")
+    WebElement Search;
+
     @FindBy(xpath = "//span[normalize-space()='Wish List (0)']")
     WebElement WishList;
 
@@ -40,6 +43,10 @@ public class HomePage extends BasePage {
 
     public void setLogin(){
         Login.click();
+    }
+
+    public void setSearch(){
+        Search.click();
     }
 
     public void setShoppingCart(){
